@@ -40631,7 +40631,7 @@ aO:function(){return new B.C2(C.n)}}
 B.C2.prototype={
 O:function(a){var t,s=null,r=S.iu(s,s,s,s,s,X.W4(C.nh,new L.io("assets/ss2.jpg",s,s)),C.R),q=M.cB(s,s,s,s,S.iu(s,s,s,s,s,X.W4(C.ng,new L.io("assets/HP.png",s,s)),C.bc),150,new V.aw(40,40,40,40),s,150),p=new P.aZ(20,20),o=u.r8
 p=S.iu(s,new K.bj(p,p,p,p),s,s,T.J4(C.mR,H.b([C.oR.h(0,50),C.d7.h(0,300)],o),C.mQ,s,C.ht),s,C.R)
-p=M.cB(s,L.dI("FullStack Flutter Dev | Blockchain | CyberForensics",s,s,A.cY(s,s,C.k,s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s)),s,s,p,s,new V.aw(10,10,10,10),new V.aw(5,5,5,5),s)
+p=M.cB(s,L.dI(" Flutter | Blockchain | Forensics",s,s,A.cY(s,s,C.k,s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s)),s,s,p,s,new V.aw(10,10,10,10),new V.aw(5,5,5,5),s)
 t=new P.aZ(20,20)
 o=S.iu(s,new K.bj(t,t,t,t),s,s,T.J4(C.mQ,H.b([C.oR.h(0,50),C.d7.h(0,300)],o),C.mR,s,C.ht),s,C.R)
 t=u.t
