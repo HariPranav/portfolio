@@ -40643,7 +40643,7 @@ B.QA.prototype={
 $0:function(){return T.d1("https://in.linkedin.com/in/hari-pranav-77b067162")},
 $S:4}
 B.QB.prototype={
-$0:function(){return T.d1("https://in.linkedin.com/in/hari-pranav-77b067162")},
+$0:function(){return T.d1("https://www.facebook.com/hari.pranav.1")},
 $S:4}
 B.QC.prototype={
 $0:function(){return T.d1("https://twitter.com/aharipranav")},
