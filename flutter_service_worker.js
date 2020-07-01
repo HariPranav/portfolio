@@ -3,9 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "427d23ab02c09f4d2dbf08119bcc97e8",
+  "assets/AssetManifest.json": "4d3da279f83dc9ba2d101609d4b48f0d",
 "assets/assets/bb.png": "838b770c2db72833be7247f328c019cf",
 "assets/assets/blog.png": "599e0917cccb146774c07bf98488c216",
+"assets/assets/blogf.png": "f416eeb84d8da59ff7df7cc8e8ff5143",
 "assets/assets/blogfinal.png": "0fd317d3eb4c9b0b9045db07ba8b6693",
 "assets/assets/blogfinal1.png": "a7acee3984ced3288ec467b2081872d1",
 "assets/assets/blogwithtext.png": "4b1382a5c927ebfa29abfe00c95e1b50",
@@ -15,16 +16,22 @@ const RESOURCES = {
 "assets/assets/icons8-hacker-64.png": "31a5a70e9bb76ed679c9f6841573cc6e",
 "assets/assets/linkedin-square-color.png": "c8b3614447a287a5251f6e3f80be1fb2",
 "assets/assets/medium.png": "a6b7120c1ed2628e53a8a0841ed59ed8",
+"assets/assets/p.png": "eac7fbba52e415c100a7327701e4191f",
+"assets/assets/portf.png": "9c1f0a355b3ed951b97c0bd77303a7ad",
+"assets/assets/pp.png": "2f5981247f991f03b7bf7cf8b88aaa5a",
+"assets/assets/prof.png": "e6584cc1b531416a73024b2726ed46fb",
 "assets/assets/Profile1.png": "c40f686558291c21314ad58382ab30ef",
 "assets/assets/Profile2.png": "fbd8ade67028084fa8df1539666d7390",
 "assets/assets/Profile3.png": "34cc2b4a07aecc9337905c058fcb7655",
 "assets/assets/profilefinal.png": "90751ad209be0c2c7a4b166752614d4a",
 "assets/assets/profilepic.jpg": "8e24013fa00c2d711239675dad5bead3",
+"assets/assets/projects123.png": "f4d93b27f512e250e30d31ba47e3cf61",
 "assets/assets/projectsfinal.png": "8bbcc49130d71a2ccd7e4f723fba9d8e",
 "assets/assets/projectsfinal1.png": "3ec687137c322c08e8044d945cb13b56",
 "assets/assets/projectsfinal2.png": "80750a1b5c752b6642e4030eb1919cd9",
 "assets/assets/ss2.jpg": "82693a6e49538b74aad71bd47e8d6b93",
 "assets/assets/ss3.jpg": "e771ee1d607bdcb16e9e4a52e7716b4c",
+"assets/assets/test.png": "5341b47b76b59871ab72508ed76aa3e8",
 "assets/assets/twitter-color.png": "3c9bb1883ea58779597c86fb1b2232d2",
 "assets/assets/youtube-color.png": "6cd8ec3bac97870dbf0fcfbcd3513930",
 "assets/FontManifest.json": "d1d98195c74ea8578011539c85a1ba98",
@@ -44,7 +51,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "2def70cdfb9efbc99017bc85e0c5e804",
 "/": "2def70cdfb9efbc99017bc85e0c5e804",
-"main.dart.js": "6591278ca6b6aba6f0d072aa0025edff",
+"main.dart.js": "ca17259e084308576e11d5218dcdb6df",
 "manifest.json": "5a2c0526f1fe73e6f211bc7a9d15c210"
 };
 
