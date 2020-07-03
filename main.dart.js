@@ -40904,9 +40904,9 @@ aO:function(){return new E.Aa(C.n)}}
 E.Aa.prototype={
 O:function(a){var s,r,q,p,o,n=null,m=C.p3.h(0,100),l=new P.ay(10,10)
 l=S.cd(n,new K.aK(l,l,l,l),n,C.p.h(0,50),n,n,C.A)
-s=L.b2("Decentralised Portfolio Website??",n,n,A.bp(n,n,n,n,n,n,n,n,n,n,n,n,n,C.Z,n,n,!0,n,n,n,n,n,n))
+s=L.b2("decentralized Portfolio Website??",n,n,A.bp(n,n,n,n,n,n,n,n,n,n,n,n,n,C.Z,n,n,!0,n,n,n,n,n,n))
 r=t.t
-l=M.aX(n,O.eI(H.b([M.aX(n,L.b2("Imagine having a website on the Decentralised Web ?? \nInroducing IPFS :A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.Check out the link below to know more",n,n,n),n,n,n,n,n,new V.a0(15,15,15,15),n),R.cf(!1,!0,L.b2("Zero To Hero Decentralised Webdev",n,n,A.bp(n,n,C.K,n,n,n,n,n,n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n)),n,!0,n,n,n,n,n,n,n,n,n,new E.OI(),n)],r),n,new T.bE(C.u,n,n,s,n)),n,n,l,n,new V.a0(20,20,20,20),n,n)
+l=M.aX(n,O.eI(H.b([M.aX(n,L.b2("Imagine having a website on the decentralized Web ?? \nInroducing IPFS :A peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.Check out the link below to know more",n,n,n),n,n,n,n,n,new V.a0(15,15,15,15),n),R.cf(!1,!0,L.b2("Zero To Hero decentralized Webdev",n,n,A.bp(n,n,C.K,n,n,n,n,n,n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n)),n,!0,n,n,n,n,n,n,n,n,n,new E.OI(),n)],r),n,new T.bE(C.u,n,n,s,n)),n,n,l,n,new V.a0(20,20,20,20),n,n)
 s=new P.ay(10,10)
 s=S.cd(n,new K.aK(s,s,s,s),n,C.p.h(0,50),n,n,C.A)
 q=L.b2("A Beginners Guide - Hackathons ",n,n,A.bp(n,n,n,n,n,n,n,n,n,n,n,n,n,C.Z,n,n,!0,n,n,n,n,n,n))
@@ -40920,7 +40920,7 @@ p=S.cd(n,new K.aK(p,p,p,p),n,C.p.h(0,50),n,n,C.A)
 o=L.b2("App For Getting Started With Blockchain Development",n,n,A.bp(n,n,n,n,n,n,n,n,n,n,n,n,n,C.Z,n,n,!0,n,n,n,n,n,n))
 return S.JC(!1,M.M_(m,B.Uc(H.b([l,s,q,M.aX(n,O.eI(H.b([M.aX(n,L.b2("Lets create a cross platform app which contains links to various important resources to get started with becoming a developer.Check out the link below to know more",n,n,n),n,n,n,n,n,new V.a0(15,15,15,15),n),R.cf(!1,!0,L.b2("Become A Blockchain Developer",n,n,A.bp(n,n,C.K,n,n,n,n,n,n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n)),n,!0,n,n,n,n,n,n,n,n,n,new E.OL(),n)],r),n,new T.bE(C.u,n,n,o,n)),n,n,p,n,new V.a0(20,20,20,20),n,n)],r)),n))}}
 E.OI.prototype={
-$0:function(){return T.cq("https://haripranav.github.io/DecentralisedWebsiteBlog/")},
+$0:function(){return T.cq("https://haripranav.github.io/decentralizedWebsiteBlog/")},
 $S:4}
 E.OJ.prototype={
 $0:function(){return T.cq("https://haripranav.github.io/Hackathons/")},
