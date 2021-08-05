@@ -49641,7 +49641,7 @@ B.ma.prototype={
 aI:function(){return new B.Ee(C.l)}}
 B.Ee.prototype={
 M:function(a,b){var s,r=null,q=X.a1N(C.fU,new L.jn("assets/23.jpg",r,r)),p=T.bJ(M.b1(r,r,r,new S.bw(r,X.a1N(C.fT,new L.jn("assets/HP.png",r,r)),r,r,r,r,C.az),150,new V.ab(10,10,10,10),r,150),r,r),o=K.ds(new P.aM(20,20)),n=t.r8,m=H.c([C.is.i(0,50),C.d8.i(0,300)],n)
-m=T.bJ(M.b1(r,L.aJ("Hey there, I'm Hari,\nI am passionate about cyber security, big data, networking and communities. I love to participate in Hackathons and work with people to contribute to the society !",r,r,A.bt(r,r,C.k,r,r,r,r,r,r,r,r,20,r,r,r,r,!0,r,r,r,r,r,r),r,r),r,new S.bw(r,r,r,o,r,new T.jZ(C.fz,C.fy,C.b8,m,r,r),C.v),170,new V.ab(30,30,30,30),new V.ab(15,15,15,15),400),r,r)
+m=T.bJ(M.b1(r,L.aJ("Hey there, I'm Hari,\nI am passionate about cyber security, big data, networking and communities. I love to participate in Hackathons and work with people to contribute to the society !",r,r,A.bt(r,r,C.k,r,r,r,r,r,r,r,r,20,r,r,r,r,!0,r,r,r,r,r,r),r,r),r,new S.bw(r,r,r,o,r,new T.jZ(C.fz,C.fy,C.b8,m,r,r),C.v),160,new V.ab(30,30,30,30),new V.ab(15,15,15,15),400),r,r)
 o=K.ds(new P.aM(20,20))
 n=H.c([C.is.i(0,50),C.d8.i(0,300)],n)
 s=t.fQ
